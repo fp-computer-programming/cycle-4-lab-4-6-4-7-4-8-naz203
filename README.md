@@ -13,3 +13,86 @@
 Read through the lab assignments in each powerpoint. Follow all instructions.
 
 <h3 align="center">Commit all files & changes before the deadline!</h3>
+#authro: nazeer thompson
+dna0= input("what is the first in the sequence?")
+dna1= input ("what is the second in the sequence?")
+dna2= input("what is the thrid in the sequence?")
+dna3= input ("what is the fourth in the sequence?")
+dna4= input ("what is the fifth in the sequence?")
+dna5= 
+input ("what is the last in the sequence?")
+
+if dna
+dna
+dna
+dna
+dna
+dna
+dna
+
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+dna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
